@@ -97,7 +97,7 @@ jQuery( document ).ready(function( $ ) {
       entry_details_area.append(entry_form_html);
     }
     
-  });/
+  });
 
 //trigger multiple form submits with one button
 
