@@ -74,7 +74,7 @@ jQuery( document ).ready(function( $ ) {
 
         // Result is a success
         request.done(function (response, textStatus, jqXHR){
-            $('#result').html('<a href="https://docs.google.com/spreadsheets/d/10tt64TiALYhPMqR2fh9JzkuhxW7oC0rXXPb_pmJ7HAY/edit?usp=sharing" target="_blank">Well Met, Traveler.</a> Check back for the Results');
+            $('#result').html('<a href="https://docs.google.com/spreadsheets/d/1Vg9jq0Y7Fd1YII2s23bjHd1SWfkPjAh6ggqn3EybAUs/edit?usp=sharing" target="_blank">Well Met, Traveler.</a> Check back for the Results');
             console.log("Success!");
         });
     

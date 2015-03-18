@@ -37,8 +37,11 @@ html {
 }
 
 body{
-  margin: 0 auto;
-  font-family: 'Open Sans', sans-serif;
+/*  margin-left: 25%;
+  margin-right: 25%;*/
+  width: 1440px;
+/*  margin: 0 auto;
+*/  font-family: 'Open Sans', sans-serif;
   color: #093156;
 
 }
@@ -94,6 +97,8 @@ nav a{
   clear: right;
    position: relative;
    margin-left: -10px;
+   width: 100%;
+
 }
 
 .headerimg{
